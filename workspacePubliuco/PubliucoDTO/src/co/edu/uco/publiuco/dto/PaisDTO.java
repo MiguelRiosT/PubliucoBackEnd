@@ -5,6 +5,6 @@ import java.util.UUID;
 public class PaisDTO {
 
 	private UUID codigo;
-	private String nombte;
+	private String nombre;
 	
 }
