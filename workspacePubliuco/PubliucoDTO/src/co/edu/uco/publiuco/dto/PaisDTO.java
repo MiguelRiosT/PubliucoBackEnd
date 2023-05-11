@@ -3,11 +3,12 @@ package co.edu.uco.publiuco.dto;
 import java.util.UUID;
 
 import lombok.Getter;
+import lombok.NonNull;
 import lombok.Setter;
 
 @Setter @Getter
 public class PaisDTO {
-
+	@NonNull
 	private UUID codigo;
 	private String nombre;
 	
