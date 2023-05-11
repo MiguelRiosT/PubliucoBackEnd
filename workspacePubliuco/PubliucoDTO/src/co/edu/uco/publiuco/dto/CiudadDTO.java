@@ -1,7 +1,6 @@
 package co.edu.uco.publiuco.dto;
 
 import java.util.UUID;
-
 import lombok.Data;
 
 @Data 
